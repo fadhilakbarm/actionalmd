@@ -294,6 +294,11 @@ return [
             'text' => 'Users',
             'url'  => 'user',
             'icon' => 'fas fa-fw fa-user',
+        ],
+        [
+            'text' => 'Logout',
+            'url'  => 'logout',
+            'icon' => 'fas fa-fw fa-sign-out-alt',
         ]
     ],
 
